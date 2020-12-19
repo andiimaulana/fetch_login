@@ -1,0 +1,20 @@
+.page_register{
+    background-color: rgb(233, 192, 155);
+    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0 ,5);
+    padding: 20px 30px;
+    width: 30%;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    height: auto;
+    padding: 5% 0;
+}
